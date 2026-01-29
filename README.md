@@ -14,6 +14,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Vuetify-Dark.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Github-Dark.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Pinia-Dark.svg" width="48"/>
+  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="48"/>
 </div>
 
 <div style="display:grid; grid-template-columns: repeat(7, 48px); gap:12px;">
@@ -45,6 +46,7 @@
 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GitLab-Dark.svg" width="48"/>
 </div>
+
 
 
 

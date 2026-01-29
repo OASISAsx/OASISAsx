@@ -3,15 +3,15 @@
 ### 🎨 Frontend
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" width="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/React.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VueJS.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/React-Dark.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VueJS-Dark.svg" width="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NextJS-Dark.svg" width="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TailwindCSS-Dark.svg" width="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MaterialUI-Dark.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GitHub-Dark.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Github-Dark.svg" width="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Pinia-Dark.svg" width="48"/>
 
-Ant Design • Vuexy • MUI • Pinia • Zustand
+Ant Design  • Zustand
 
 ### ⚙️ Backend
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS.svg" width="48"/>
@@ -30,3 +30,4 @@ Ant Design • Vuexy • MUI • Pinia • Zustand
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AWS-Dark.svg" width="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" width="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg" width="48"/>
+

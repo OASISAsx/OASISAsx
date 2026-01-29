@@ -24,19 +24,3 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
 </p>
 
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OASISAsx&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OASISAsx&theme=tokyonight" />
-</p>
-
-<h2 align="center">🔥 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OASISAsx&theme=tokyo-night" />
-</p>
-

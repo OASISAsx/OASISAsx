@@ -31,14 +31,11 @@
 
 ### 🗄️ Database
 <div style="display:grid; grid-template-columns: repeat(7, 48px); gap:12px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Sequelize-Dark.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Prisma.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NestJS-Dark.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GoLang.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Laravel-Dark.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Dark.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MongoDB.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PostgreSQL-Dark.svg" width="48"/>
 </div>
+
 
 
 ### ☁️ Cloud & DevOps & Tools
@@ -53,6 +50,7 @@
 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GitLab-Dark.svg" width="48"/>
 </div>
+
 
 
 

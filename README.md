@@ -21,10 +21,10 @@ Ant Design • Zustand
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Prisma-Dark.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NestJS.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Prisma.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NestJS-Dark.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GoLang.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Laravel.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Laravel-Dark.svg" width="48"/>
 </p>
 
 ---
@@ -44,4 +44,5 @@ Ant Design • Zustand
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg" width="48"/>
 </p>
+
 

@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NextJS-Dark.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TailwindCSS-Dark.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MaterialUI-Dark.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GitHub-Dark.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Github-Dark.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Pinia-Dark.svg" width="48"/>
 </p>
 
@@ -19,7 +19,7 @@ Ant Design • Zustand
 
 ### ⚙️ Backend
 <p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Prisma-Dark.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NestJS.svg" width="48"/>
@@ -44,3 +44,4 @@ Ant Design • Zustand
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg" width="48"/>
 </p>
+

@@ -13,10 +13,6 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Pinia-Dark.svg" width="48"/>
 </p>
 
-Ant Design • Zustand
-
----
-
 ### ⚙️ Backend
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" width="48"/>
@@ -27,8 +23,6 @@ Ant Design • Zustand
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Laravel-Dark.svg" width="48"/>
 </p>
 
----
-
 ### 🗄️ Database
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Dark.svg" width="48"/>
@@ -36,13 +30,12 @@ Ant Design • Zustand
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PostgreSQL-Dark.svg" width="48"/>
 </p>
 
----
-
 ### ☁️ Cloud & DevOps
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AWS-Dark.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg" width="48"/>
 </p>
+
 
 
